@@ -8,7 +8,7 @@ The DJINetworkRTKHelper is used for Network RTK service in DJI Mobile SDK.
 
 DJIWidget is available through [CocoaPods](http://cocoapods.org). To install it, simply add the following line to your Podfile:
 
-```ruby
+```
 pod 'DJINetworkRTKHelper', '~> 1.0'
 ```
 
