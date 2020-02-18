@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "DJINetworkRTKHelper"
-  s.version      = "1.1"
+  s.version      = "1.2"
   s.summary      = "DJI Network RTK Helper for iOS"
   s.homepage     = "https://github.com/dji-sdk/DJINetworkRTKHelper"
   s.license      = { :type => 'CUSTOM', :text => <<-LICENSE
@@ -38,7 +38,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   s.author       = { "DJI SDK" => "dev@dji.com" }
   s.platform     = :ios, '8.0'
   s.requires_arc = true
-  s.source       = { :http => "https://dh7g4ai1w5iq6.cloudfront.net/DJINetworkRTKHelper/DJINetworkRTKHelper_1.1_20190523.zip"}
+  s.source       = { :http => "https://d16195ku7wo333.cloudfront.net/DJINetworkRTKHelper/DJINetworkRTKHelper_1.2_20200218.zip"}
   s.ios.vendored_frameworks = 'DJINetworkRTKHelper/DJINetworkRTKHelper.framework'
 
 end
